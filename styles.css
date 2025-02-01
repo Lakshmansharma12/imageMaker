@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.drop-zone {
+    border: 2px dashed #007bff;
+    padding: 30px;
+    border-radius: 10px;
+    background: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.drop-zone:hover {
+    background: #e9f5ff;
+}
